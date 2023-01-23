@@ -1,0 +1,16 @@
+.description {
+    margin-left: 50px;
+}
+
+.images_row {
+    display: flex;
+}
+
+.image {
+    width: 30%;
+    margin-left: 50px;
+}
+
+.image > img {
+    width: 100%;
+}
